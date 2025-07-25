@@ -56,6 +56,15 @@
         padding-left: 30px !important;
         padding-right: 30px !important;
     }
+    .shadow-heading{
+    letter-spacing: 0.5px ;
+    text-shadow: 
+    0 5px 5px black,
+    -0.5px 0.5px 1px black,
+    0.5px -0.5px 1px black,
+    -0.5px -0.5px 1px black,
+    0.5px 0.5px 1px black !important;
+    }
     .card-heading{
         font-size: 30px !important;
     }
@@ -298,12 +307,11 @@ main{
 .shadow-heading{
     letter-spacing: 0.5px ;
     text-shadow: 
-    0 5px 15px black,
+    0 5px 13px black,
     -0.5px 0.5px 1px black,
     0.5px -0.5px 1px black,
     -0.5px -0.5px 1px black,
     0.5px 0.5px 1px black;
-    
 }
 /* .shadow-heading::after{
     content: 'Tax Preparation & Filling';
