@@ -43,6 +43,20 @@
     .fw-sm-300{
         font-weight: 300 !important;
     }
+    body header {
+        padding: 10px 10px 0 10px !important;
+
+    }
+    body header div .fs-2{
+        font-size: 3.5rem !important;
+    }
+    body header div div .fs-1half{
+        font-size: 3rem !important;
+        font-family: sans-serif;
+    }
+    body header div div button{
+        padding:10px 15px !important;
+    }
     .fs-1half{
         font-size: 2rem !important;
     }
