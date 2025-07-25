@@ -296,7 +296,7 @@ main{
     font-size: 70px;
 }
 .shadow-heading{
-    letter-spacing: 2px ;
+    letter-spacing: 0.5px ;
     text-shadow: 
     0 5px 15px black,
     -0.5px 0.5px 1px black,
